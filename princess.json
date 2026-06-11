@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Snow White",
+    "movie": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/snow-white.jpg",
+    "traits": ["Kind", "Gentle", "Optimistic"],
+    "description": "You are sweet, hopeful, and naturally caring. You bring warmth to others and try to see the good in difficult situations.",
+    "quote": "Your kindness is your quiet strength."
+  },
+  {
+    "id": 2,
+    "name": "Cinderella",
+    "movie": "Cinderella",
+    "year": 1950,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/cinderella.jpg",
+    "traits": ["Resilient", "Graceful", "Hopeful"],
+    "description": "You stay graceful under pressure and keep believing in better days, even when things are hard.",
+    "quote": "You are proof that hope can survive anything."
+  },
+  {
+    "id": 3,
+    "name": "Aurora",
+    "movie": "Sleeping Beauty",
+    "year": 1959,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/aurora.jpg",
+    "traits": ["Dreamy", "Romantic", "Gentle"],
+    "description": "You are calm, elegant, and imaginative. You value peace, beauty, and meaningful connections.",
+    "quote": "Your quiet presence leaves a lasting impression."
+  },
+  {
+    "id": 4,
+    "name": "Ariel",
+    "movie": "The Little Mermaid",
+    "year": 1989,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/ariel.jpg",
+    "traits": ["Curious", "Bold", "Dream-driven"],
+    "description": "You are adventurous and curious, always wondering what else life has to offer.",
+    "quote": "You are not afraid to dream bigger."
+  },
+  {
+    "id": 5,
+    "name": "Belle",
+    "movie": "Beauty and the Beast",
+    "year": 1991,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/belle.jpg",
+    "traits": ["Intelligent", "Independent", "Compassionate"],
+    "description": "You value knowledge, kindness, and seeing beyond first impressions.",
+    "quote": "Your heart and mind are equally powerful."
+  },
+  {
+    "id": 6,
+    "name": "Jasmine",
+    "movie": "Aladdin",
+    "year": 1992,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/jasmine.jpg",
+    "traits": ["Confident", "Independent", "Justice-focused"],
+    "description": "You know your worth and are not afraid to challenge expectations or speak up for yourself.",
+    "quote": "You were never meant to live by someone else’s rules."
+  },
+  {
+    "id": 7,
+    "name": "Pocahontas",
+    "movie": "Pocahontas",
+    "year": 1995,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/pocahontas.jpg",
+    "traits": ["Wise", "Spiritual", "Free-spirited"],
+    "description": "You are thoughtful, grounded, and deeply connected to the world around you.",
+    "quote": "You listen deeply, even when others rush to speak."
+  },
+  {
+    "id": 8,
+    "name": "Mulan",
+    "movie": "Mulan",
+    "year": 1998,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/mulan.jpg",
+    "traits": ["Brave", "Loyal", "Determined"],
+    "description": "You are courageous and protective. You rise to the occasion when people need you.",
+    "quote": "Your strength comes from being true to yourself."
+  },
+  {
+    "id": 9,
+    "name": "Tiana",
+    "movie": "The Princess and the Frog",
+    "year": 2009,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/tiana.jpg",
+    "traits": ["Hardworking", "Ambitious", "Focused"],
+    "description": "You are determined, practical, and willing to work hard for the future you want.",
+    "quote": "Your dreams matter, but so does the work behind them."
+  },
+  {
+    "id": 10,
+    "name": "Rapunzel",
+    "movie": "Tangled",
+    "year": 2010,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/rapunzel.jpg",
+    "traits": ["Creative", "Optimistic", "Curious"],
+    "description": "You are imaginative, expressive, and always open to discovering something new.",
+    "quote": "Your creativity turns ordinary moments into magic."
+  },
+  {
+    "id": 11,
+    "name": "Merida",
+    "movie": "Brave",
+    "year": 2012,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/merida.jpg",
+    "traits": ["Bold", "Independent", "Strong-willed"],
+    "description": "You are fearless, independent, and willing to fight for your own path.",
+    "quote": "You do not wait for permission to become yourself."
+  },
+  {
+    "id": 12,
+    "name": "Moana",
+    "movie": "Moana",
+    "year": 2016,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/moana.jpg",
+    "traits": ["Adventurous", "Responsible", "Courageous"],
+    "description": "You are driven by purpose and curiosity. You are willing to go beyond your comfort zone when something matters.",
+    "quote": "You are called to explore, lead, and restore."
+  },
+  {
+    "id": 13,
+    "name": "Raya",
+    "movie": "Raya and the Last Dragon",
+    "year": 2021,
+    "imageURL": "https://YOUR_USERNAME.github.io/disney-princess-api/images/raya.jpg",
+    "traits": ["Resourceful", "Guarded", "Loyal"],
+    "description": "You are strategic, protective, and stronger than you sometimes let people see.",
+    "quote": "Trust is hard, but your courage makes healing possible."
+  }
+]
